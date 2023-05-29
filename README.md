@@ -49,7 +49,7 @@ plt.ylabel("Training Loss")
 plt.show()
 ```
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/Experiment-6---Heart-attack-prediction-using-MLP/blob/main/output1.1.png)
 ## Result:
      Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
      
